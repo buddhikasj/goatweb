@@ -152,7 +152,7 @@
 				<configuration>
 	  				<archive>
 	    					<manifest>
-						<mainClass>com.mkyong.core.App</mainClass>
+						<mainClass>src.main.java.org.mitre.web.HomeController</mainClass>
 	    					</manifest>
 	 				</archive>
 				</configuration>
